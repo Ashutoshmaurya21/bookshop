@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+        "name":"Story book",
+        "title":"A storybook takes you on a journey! With each page with characters, adventures, and lessons. ",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793729.jpg?t=st=1729784265~exp=1729787865~hmac=7f07bbd442b4da49f3df1ae8f07785dd4ef70a262d0bfe603c2efcd80364a13d&w=996"
+    },
+    {
+        "id":2,
+        "name":"Comic book",
+        "title":"Comic books blend art and storytelling in a unique way, combining vivid visuals with engaging narratives. ",
+        "price":50,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793729.jpg?t=st=1729784265~exp=1729787865~hmac=7f07bbd442b4da49f3df1ae8f07785dd4ef70a262d0bfe603c2efcd80364a13d&w=996"
+    },
+    {
+        "id":3,
+        "name":"Love-Story book",
+        "title":"Lorem ipsum dolor sit amet consectetur adipisicing elit ",
+        "price":100,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793729.jpg?t=st=1729784265~exp=1729787865~hmac=7f07bbd442b4da49f3df1ae8f07785dd4ef70a262d0bfe603c2efcd80364a13d&w=996"
+    },
+    {
+        "id":4,
+        "name":"comedy book",
+        "title":"Comic books blend art and storytelling in a unique way, combining vivid visuals with engaging narratives. ",
+        "price":50,
+        "category":"Comedy",
+        "image":"https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793729.jpg?t=st=1729784265~exp=1729787865~hmac=7f07bbd442b4da49f3df1ae8f07785dd4ef70a262d0bfe603c2efcd80364a13d&w=996"
+    },
+    {
+        "id":5,
+        "name":"Sports book",
+        "title":"A sports book dives into the world of athletics, documenting iconic games, athlete bios, training techniques ",
+        "price":40,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793729.jpg?t=st=1729784265~exp=1729787865~hmac=7f07bbd442b4da49f3df1ae8f07785dd4ef70a262d0bfe603c2efcd80364a13d&w=996"
+    },
+    {
+        "id":6,
+        "name":"Music book",
+        "title":"Music, it's like magic. It stirs up emotions, inspires creativity ",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793729.jpg?t=st=1729784265~exp=1729787865~hmac=7f07bbd442b4da49f3df1ae8f07785dd4ef70a262d0bfe603c2efcd80364a13d&w=996"
+    },
+    {
+        "id":7,
+        "name":"Story book",
+        "title":"A storybook takes you on a journey! With each page with characters, adventures, and lessons. ",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793729.jpg?t=st=1729784265~exp=1729787865~hmac=7f07bbd442b4da49f3df1ae8f07785dd4ef70a262d0bfe603c2efcd80364a13d&w=996"
+    },
+    {
+        "id":8,
+        "name":"Story book",
+        "title":"A storybook takes you on a journey! With each page with characters, adventures, and lessons.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793729.jpg?t=st=1729784265~exp=1729787865~hmac=7f07bbd442b4da49f3df1ae8f07785dd4ef70a262d0bfe603c2efcd80364a13d&w=996"
+    },
+    {
+        "id":9,
+        "name":"food book",
+        "title":"Food books are delightful journeys for your taste buds and mind.",
+        "price":0,
+        "category":"food",
+        "image":"https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793729.jpg?t=st=1729784265~exp=1729787865~hmac=7f07bbd442b4da49f3df1ae8f07785dd4ef70a262d0bfe603c2efcd80364a13d&w=996"
+    },
+    {
+        "id":1,
+        "name":"Story book",
+        "title":"A storybook takes you on a journey! With each page with characters, adventures, and lessons. ",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793729.jpg?t=st=1729784265~exp=1729787865~hmac=7f07bbd442b4da49f3df1ae8f07785dd4ef70a262d0bfe603c2efcd80364a13d&w=996"
+    },
+    {
+        "id":1,
+        "name":"Story book",
+        "title":"A storybook takes you on a journey! With each page with characters, adventures, and lessons. ",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/open-book-concept-fairy-tale-fiction-storytelling_23-2150793729.jpg?t=st=1729784265~exp=1729787865~hmac=7f07bbd442b4da49f3df1ae8f07785dd4ef70a262d0bfe603c2efcd80364a13d&w=996"
+    }
+
+
+]
